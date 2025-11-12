@@ -1,7 +1,7 @@
 # 2018-Tfl
 Math6183-Coursework3
 
-# example for how to combine the data
+# example for how to combine the data- using same way to deal with all the other sheets
 
 ```{r}
 library(readxl)
